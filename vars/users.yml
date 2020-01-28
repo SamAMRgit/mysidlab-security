@@ -1,8 +1,8 @@
 ---
 users:
   - name: user1
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "sacramento-COBB-DELETEME, fresno-COBB-DELETEME, indio-COBB-DELETEME"
   - name: user2
-    aws_groups: "losangeles, sanfransisco, napa"
+    aws_groups: "losangeles-COBB-DELETEME, sanfransisco-COBB-DELETEME, napa-COBB-DELETEME"
   - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "palmsprings-COBB-DELETEME, indio-COBB-DELETEME, sandiego-COBB-DELETEME"
