@@ -1,10 +1,10 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - fresno-COBB-DELETEME
+  - sacramento-COBB-DELETEME
+  - losangeles-COBB-DELETEME
+  - sanfrancisco-COBB-DELETEME
+  - indio-COBB-DELETEME
+  - palmsprings-COBB-DELETEME
+  - sandiego-COBB-DELETEME
+  - napa-COBB-DELETEME
